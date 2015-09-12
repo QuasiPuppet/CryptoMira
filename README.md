@@ -1,4 +1,4 @@
-## Building CryptoNote 
+## Building CryptoMira
 
 ### On *nix
 
